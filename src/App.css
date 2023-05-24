@@ -1,0 +1,47 @@
+
+table{
+  width: 100%;
+
+  alignment: center;
+}
+th,td{
+
+  background-color: gray;
+  margin: 5px;
+  display:inline-block;
+  justify-content: space-between;
+  width: 100%;
+  border: black solid;
+}
+td.leftbox{
+  background: aqua;
+  float: left;
+  width: 48%;
+  height: 400px;
+}
+td.rightbox{
+  background: darkorchid;
+  width: 48%;
+  float: right;
+  height: 400px;
+}
+th,td{
+  height: 200px;
+}
+tfoot{
+  text-align: center;
+  font-family: Arial
+}
+button{
+  margin-top: 2%;
+  font-family: "Arial Hebrew Scholar";
+  font-size: medium;
+  align-items: center;
+  background: #a79bea;
+}
+
+
+
+
+
+
