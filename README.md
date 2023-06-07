@@ -1,3 +1,6 @@
+This is a basic layout of react, it has a button that counts the times the user has clicked it which is showing state. The other functuanality is that it tells the user the time. This layout can be used to make a basic resume and to show state and the onClick button. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
